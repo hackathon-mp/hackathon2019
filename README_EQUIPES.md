@@ -5,6 +5,7 @@
 - Java (Android)
 - C#
 - Python
+- JavaScript
 
 **Ferramentas utilizadas:**
 - Ferramenta 1
