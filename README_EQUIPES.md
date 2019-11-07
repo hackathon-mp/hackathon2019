@@ -1,14 +1,11 @@
-## NOME DA EQUIPE
+## EQUIPE ROCKET
 **Descrição do projeto desenvolvido:** 
 
 **Linguagens de programação utilizadas:**
-- Java (Android)
-- C#
-- Python
+- Ruby
 
 **Ferramentas utilizadas:**
-- Ferramenta 1
-- Ferramenta 2
+- sdfsdfs
 
 **Equipe:**
 
